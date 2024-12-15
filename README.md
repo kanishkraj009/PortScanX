@@ -29,7 +29,7 @@ pip install colorama
 
 
 Clone or download the repository to your local machine:
-git clone https://github.com/yourusername/PortScanX.git
+git clone https://github.com/kanishkraj009/PortScanX.git
 cd PortScanX
 
 Run the script:
