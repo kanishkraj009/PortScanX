@@ -1,0 +1,27 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Other common files to ignore
+*.swp
+*.bak
